@@ -1,5 +1,6 @@
 n <- 1000
 
-sum = n*(n+1)/2
+totalsum = n*(n+1)/2
 
-paste("the sum is:",sum)
+paste("the sum is:",totalsum)
+
